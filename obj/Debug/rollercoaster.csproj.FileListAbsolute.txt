@@ -1,0 +1,6 @@
+c:\users\msken\documents\visual studio 2015\Projects\rollercoaster\rollercoaster\bin\Debug\rollercoaster.exe.config
+c:\users\msken\documents\visual studio 2015\Projects\rollercoaster\rollercoaster\obj\Debug\rollercoaster.csprojResolveAssemblyReference.cache
+c:\users\msken\documents\visual studio 2015\Projects\rollercoaster\rollercoaster\bin\Debug\rollercoaster.exe
+c:\users\msken\documents\visual studio 2015\Projects\rollercoaster\rollercoaster\bin\Debug\rollercoaster.pdb
+c:\users\msken\documents\visual studio 2015\Projects\rollercoaster\rollercoaster\obj\Debug\rollercoaster.exe
+c:\users\msken\documents\visual studio 2015\Projects\rollercoaster\rollercoaster\obj\Debug\rollercoaster.pdb
